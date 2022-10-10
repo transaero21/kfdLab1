@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64f9c827-6289-4c36-852f-7538554efdeb" name="Changes" comment="implement task 2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Task1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Task1.kt" afterDir="false" />
-    </list>
+    <list default="true" id="64f9c827-6289-4c36-852f-7538554efdeb" name="Changes" comment="implement task 1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,7 +62,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665430675606</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="implement task 1">
+      <created>1665432734570</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1665432734570</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -83,6 +87,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="init project" />
     <MESSAGE value="implement task 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="implement task 2" />
+    <MESSAGE value="implement task 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="implement task 1" />
   </component>
 </project>
